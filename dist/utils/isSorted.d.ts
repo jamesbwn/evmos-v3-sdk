@@ -1,1 +1,1 @@
-export declare function isSorted<T>(list: Array<T>, comparator: (a: T, b: T) => number): boolean;
+export declare function isSorted<T>(list: Array<T>, comparator: (a: T, b: T) => number): boolean
